@@ -108,7 +108,7 @@
     "karma-webpack": "git+https://github.com/dragosh/karma-webpack.git",
     "less": "^2.5.1",
     "less-loader": "^2.2.0",
-    "lodash": "^3.5.0",
+    "lodash": "^4.17.21",
     "logdown": "^1.1.1",
     "marked": "^0.3.5",
     "marked-to-md": "^1.0.1",
